@@ -1,4 +1,4 @@
-# GiSocial
+# GitSocial
 
 A React + Vite web application that connects with GitHub and Supabase to provide a personalized feed of repositories from people you follow, along with user profiles, repository details, and an "Explore People" feature.
 
